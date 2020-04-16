@@ -393,7 +393,7 @@ return [
 
             [
                 'county' => 'Scottish Borders',
-                'region' => '',
+                'region' => 'Scotland',
             ],
 
             [
